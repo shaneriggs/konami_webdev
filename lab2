@@ -141,15 +141,13 @@
       </div>
     </main>
     <footer>
+      <address>
+      Written by <a href="mailto:edwardeclarkiii@gmail.com">Teddy Clark, Michael Kokkatt, Shane Riggs</a>.<br>
+      Visit us at:<br>
+      <a href="https://github.com/teddy-clark/konami_webdev/blob/master/lab2">GitHub</a> <br>
+      110 8th St<br>
+      Troy, NY 12180 USA
+      </address>
     </footer>
   </body>
-  <footer>
-    <address>
-    Written by <a href="mailto:edwardeclarkiii@gmail.com">Teddy Clark, Michael Kokkatt, Shane Riggs</a>.<br>
-    Visit us at:<br>
-    <a href="https://github.com/teddy-clark/konami_webdev/blob/master/lab2">GitHub</a> <br>
-    110 8th St<br>
-    Troy, NY 12180 USA
-    </address>
-  </footer>
 </html>
