@@ -14,6 +14,13 @@ I added an AllMusic ratings category to provide statistics on how AllMusic has
 ranked these songs. Furthermore, I added footer and address tags to provide
 relevant contact information for the students who completed this lab (Teddy Clark).
 
+In the CSS file, we first used display:inline-block in order to organize the different
+sections into columns. Then, if any columns need to be resized, they were resized 
+later with class specific selectors. In order to make the infomation line up into 
+rows, we made the containers for each li in the different columns the same size. 
+This made sure they all lined up horizontally regardless of font size. Finally, the 
+images had to be resized to make them fit horizontally on the page and to reduce the
+amount of scrolling required to view the whole list.
 (Michael Kokkatt and Shane Riggs)
 
 (Teddy Clark, Michael Kokkatt, Shane Riggs)
