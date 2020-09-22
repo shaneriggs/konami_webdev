@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="konami-lab2-part3.css">
     <title>Top 10 Songs</title>
   </head>
   <body>
@@ -66,7 +67,7 @@
           <li>3.0 Stars</li>
         </ul>
       </div>
-      <div class="release date">
+      <div class="release_date">
         <h1>Release Date</h1>
         <ul>
           <li>September 11, 2006</li>
