@@ -1,10 +1,10 @@
 I created the HTML file with div tags and classes to help categorize the 6
 song attributes. The markup allows future developers to easily change the display
-of a specific category of song information. The HTML is semantically correct, as
-the last opened tag is the first closed. Additionally, I added an AllMusic ratings
-category to provide statistics on how AllMusic has ranked these songs. Furthermore,
-I added footer and address tags to provide relevant contact information for the
-students who completed this lab (Teddy Clark).
+of a specific category of song information with CSS. The HTML is semantically
+correct, as the last opened tag is the first closed. Additionally, I added an
+AllMusic ratings category to provide statistics on how AllMusic has ranked these
+songs. Furthermore, I added footer and address tags to provide relevant contact
+information for the students who completed this lab (Teddy Clark).
 
 I adopted a markup for XML similar to that of the HTML document from part 1 in
 order to minimize the number of changes I would need to make in part 2. The XML
