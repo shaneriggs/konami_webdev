@@ -1,0 +1,95 @@
+/*Create the columns by having each div display:inline-block*/
+div {
+  display: inline-block;
+  width: 200px;
+  padding: 5px;
+  border: 1px solid blue;
+}
+
+.track_name {
+	float: left;
+}
+
+.track_name ul li {
+	font-variant: small-caps;
+	list-style-type: none;
+	height: 150px;
+}
+
+.artist_name {
+	float: left;
+}
+
+.artist_name ul li {
+	font-weight: bold;
+	font-size: 1.2em;
+	list-style-type: none;
+	height: 150px;
+}
+
+.album_name {
+	float: left;
+}
+
+.album_name ul li {
+	font-style: italic;
+	list-style-type: none;
+	height: 150px;
+}
+
+.rating {
+	float: left;
+	width: 100px;
+}
+
+.rating ul li {
+	list-style-type: none;
+	height: 150px;
+}
+
+.release_date {
+	float: left;	
+}
+
+.release_date ul li {
+	font-size: .8em;
+	list-style-type: none;
+	height: 150px;
+}
+
+.genre {
+	width: 100px;
+	float: left;
+}
+
+.genre ul ul {
+	display: inline;
+}
+
+.genre ul ul li {
+	font-size: .8em;
+	list-style-type: none;
+}
+
+/*Add dashes as bullets for each genre li*/
+.genre ul ul > li:before {
+	content: "-";
+}
+
+.album_cover {
+	float: left;
+	width: 220px;
+}
+
+.album_cover ul li {
+	list-style-type: none;
+}
+
+/*Resize images to make them fit*/
+img {
+	height: 145px;
+	width: 145px;
+	border-bottom:5px;
+}
+
+
