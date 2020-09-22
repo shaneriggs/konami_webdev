@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Top 10 Songs</title>
+    <link rel="stylesheet" href="konami-lab2-part3.css">
+  </head>
+  <body>
+    <main>
+      <div class="track_name">
+        <h1>Track Name</h1>
+        <ul>
+          <li>Truth Without Love</li>
+          <li>Out the Cage</li>
+          <li>Alabama</li>
+          <li>Where Do the Children Play?</li>
+          <li>Scramble Suit II</li>
+          <li>First Light</li>
+          <li>Bottle Opener</li>
+          <li>Red Den</li>
+          <li>Oh Yeah</li>
+          <li ><span style="color:green">Through the Late Night</span></li>
+        </ul>
+      </div>
+      <div class="artist_name">
+        <h1>Artist</h1>
+        <ul>
+          <li><a href="https://www.allmusic.com/artist/alicia-keys-mn0000005307">Alicia Keys</a></li>
+          <li><a href="https://www.allmusic.com/artist/keith-urban-mn0000081619">Keith Urban</a></li>
+          <li><a href="https://www.allmusic.com/artist/neil-young-mn0000379125">Neil Young</a></li>
+          <li><a href="https://www.allmusic.com/artist/cat-stevens-mn0000198480">Cat Stephens</a>
+              <a href="https://www.allmusic.com/artist/yusuf-mn0000879920">Yusuf</a></li>
+          <li><a href="https://www.allmusic.com/artist/osees-mn0003961905">Osees</a>
+              <a href="https://www.allmusic.com/artist/thee-oh-sees-mn0000990384">Thee Oh Sees</a></li>
+          <li><a href="https://www.allmusic.com/artist/ed-harcourt-mn0000162427">Ed Harcourt</a></li>
+          <li><a href="https://www.allmusic.com/artist/gus-dapperton-mn0003715935">Gus Dapperton</a></li>
+          <li><a href="https://www.allmusic.com/artist/deradoorian-mn0003420085">Deradoorian</a></li>
+          <li><a href="https://www.allmusic.com/artist/ag-cook-mn0003335396">A.G. Cook</a></li>
+          <li><a href="https://www.allmusic.com/artist/travis-scott-mn0002998422">Travis Scott</a></li>
+        </ul>
+      </div>
+      <div class="album_name">
+        <h1>Album Name</h1>
+        <ul>
+          <li><a href="https://www.allmusic.com/album/alicia-mw0003351809">Alicia</a> </li>
+          <li><a href="https://www.allmusic.com/album/the-speed-of-now-vol-1-mw0003400496">The Speed of Now, Vol. 1</a></li>
+          <li><a href="https://rovimusic.rovicorp.com/image.jpg?c=gUYMFrXiA41IwtaXv8uXWgSijaXJlYnq0St31qpAJWo=&f=5">The Times</a></li>
+          <li><a href="https://www.allmusic.com/album/tea-for-the-tillerman-2-mw0003381606">Tea for the Tillerman 2</a></li>
+          <li><a href="https://www.allmusic.com/album/protean-threat-mw0003411500">Protean Threat</a></li>
+          <li><a href="https://www.allmusic.com/album/monochrome-to-colour-mw0003406153">Monochrome to Colour</a></li>
+          <li><a href="https://www.allmusic.com/album/orca-mw0003403400">Orca</a></li>
+          <li><a href="https://www.allmusic.com/album/find-the-sun-mw0003366844">Find the Sun</a></li>
+          <li><a href="https://www.allmusic.com/album/apple-mw0003419305">Apple</a></li>
+          <li><a href="https://www.allmusic.com/album/birds-in-the-trap-sing-mcknight-mw0002978141">Birds in the Trap Sing McKnight</a></li>
+        </ul>
+      </div>
+      <div class="rating">
+        <h1>Rating</h1>
+        <ul>
+          <li>3.0 Stars</li>
+          <li>3.5 Stars</li>
+          <li>3.0 Stars</li>
+          <li>2.5 Stars</li>
+          <li>4.0 Stars</li>
+          <li>4.0 Stars</li>
+          <li>2.5 Stars</li>
+          <li>3.5 Stars</li>
+          <li>4.0 Stars</li>
+          <li>3.0 Stars</li>
+        </ul>
+      </div>
+      <div class="release_date">
+        <h1>Release Date</h1>
+        <ul>
+          <li>September 11, 2006</li>
+          <li>September 18, 2020</li>
+          <li>August 28, 2020</li>
+          <li>May 28, 2020</li>
+          <li>September 15, 2020</li>
+          <li>September 18, 2020</li>
+          <li>September 18, 2020</li>
+          <li>September 18, 2020</li>
+          <li>September 18, 2020</li>
+          <li>September 2, 2016</li>
+        </ul>
+      </div>
+      <div class="genre">
+        <h1>Genre</h1>
+        <ul>
+          <ul>
+            <li>R&B</li>
+          </ul>
+          <ul>
+            <li>Country</li>
+          </ul>
+          <ul>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Electronic</li>
+            <li>Pop</li>
+            <li>Rock</li>
+          </ul>
+          <ul>
+            <li>Rap</li>
+          </ul>
+        </ul>
+      </div>
+      <div class="album_cover">
+        <h1>Album Cover</h1>
+        <ul>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=epuqKkLi6xOdbhM9Yh9QRphUoDg0hsvx4F4sL4oO-nA=&f=5" alt="Alicia Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=o14Vu0nHVoZHTvcw0BsV29_M69_UI9rrJSVvWL2-yAg=&f=5" alt="The Speed of Now, Vol. 1 Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=gUYMFrXiA41IwtaXv8uXWgSijaXJlYnq0St31qpAJWo=&f=5" alt="The Times Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=UB8S-9BP8Dw7YxRVrmVfbQ4Q1ghY8VaPylnm7PwcKNY=&f=5" alt="Tea for the Tillerman 2 Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=A5aSOJY05HjSzBalR48veT6KsMttLlyBmmVTZ6_CLs0=&f=5" alt="Protean Threat Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=M0gfCNdGo55V_9IYA6AXth_TZlp6n_cq-Emr2zx15tU=&f=5" alt="Monochrome to Colour Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=iKrfuN_q5cS0bq__Sx8LRD6KsMttLlyBmmVTZ6_CLs0=&f=5" alt="Orca Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=9_-JGKkapM-2IAPapEQD3A4Q1ghY8VaPylnm7PwcKNY=&f=5" alt="Find the Sun Album Cover"></li>
+          <li><img src="https://rovimusic.rovicorp.com/image.jpg?c=suHi7ziefX_Lf3r888pl4ypQg_7iAU1wjqLgK_xGXts=&f=5" alt="Apple Album Cover"> </li>
+          <li><img src="https://cdn-s3.allmusic.com/release-covers/500/0004/631/0004631095.jpg" alt="Through the Late Night Album Cover"></li>
+        </ul>
+      </div>
+    </main>
+    <footer>
+      <address>
+      Written by <a href="mailto:edwardeclarkiii@gmail.com">Teddy Clark, Michael Kokkatt, Shane Riggs</a>.<br>
+      Visit us at:<br>
+      <a href="https://github.com/teddy-clark/konami_webdev/blob/master/lab2">GitHub</a> <br>
+      110 8th St<br>
+      Troy, NY 12180 USA
+      </address>
+    </footer>
+  </body>
+</html>
