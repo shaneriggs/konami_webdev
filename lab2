@@ -67,7 +67,7 @@
           <li>3.0 Stars</li>
         </ul>
       </div>
-      <div class="release_date">
+      <div class="release date">
         <h1>Release Date</h1>
         <ul>
           <li>September 11, 2006</li>
@@ -86,7 +86,7 @@
         <h1>Genre</h1>
         <ul>
           <ul>
-            <li>R&B</li>
+            <li>R &amp B</li>
           </ul>
           <ul>
             <li>Country</li>
@@ -143,10 +143,10 @@
     </main>
     <footer>
       <address>
-      Written by <a href="mailto:edwardeclarkiii@gmail.com">Teddy Clark, Michael Kokkatt, Shane Riggs</a>.<br>
-      Visit us at:<br>
+      Written by <a href="mailto:edwardeclarkiii@gmail.com">Teddy Clark, Michael Kokkatt, Shane Riggs</a>.<br></br>
+      Visit us at:<br></br>
       <a href="https://github.com/teddy-clark/konami_webdev/blob/master/lab2">GitHub</a> <br>
-      110 8th St<br>
+      110 8th St<br></br>
       Troy, NY 12180 USA
       </address>
     </footer>
